@@ -28,3 +28,5 @@ OPENID_PROVIDERS = [
         'url': 'https://www.myopenid.com',
     },
 ]
+
+POSTS_PER_PAGE = 3
