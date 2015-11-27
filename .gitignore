@@ -1,0 +1,9 @@
+*.pyc
+*~
+*.tmp
+*.pyo
+*.db
+tmp/**
+*.sqlite3
+*.sqlite
+*.log*
