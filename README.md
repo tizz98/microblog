@@ -12,4 +12,4 @@ A simple microblog (twitter clone) platform using Flask.
 - `run_prod.py` : Run the app with `DEBUG=False`
 
 ### Source
-Followed the tutorial from: [miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world/)
+Followed the tutorial from: [miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
