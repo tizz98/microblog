@@ -5,4 +5,8 @@ A simple microblog (twitter clone) platform using Flask.
 - `db_create.py` : Create database
 - `db_migrate.py` : Create migrations for model changes
 - `db_updgrade.py` : Run the migrations
-- `db_downgrade.py` : Rollback a migration
+- `db_downgrade.py` : Rollback a migratioin
+
+## Running the app
+- `run.py` : Run the app with `DEBUG=True`
+- `run_prod.py` : Run the app with `DEBUG=False`
